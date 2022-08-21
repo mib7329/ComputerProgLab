@@ -1,5 +1,8 @@
 #include <stdio.h>
 
+// mirza Ibrahim Beg
+// Lab 1
+
 void linear_search(int len,int arr[len]){
     int search,flag=0;
     printf("Enter the number you want to search\n");
