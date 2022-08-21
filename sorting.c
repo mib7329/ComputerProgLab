@@ -1,5 +1,8 @@
 #include <stdio.h>
 
+// Mirza Ibrahim Beg
+// Lab 2
+
 void display_array(int len,int arr[len]){
     printf("The sorted array is -: \n");
     for (int i=0;i<len;i++){
