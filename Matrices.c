@@ -1,6 +1,5 @@
 #include <stdio.h>
 
-// Mirza Ibrahim Beg
 // Lab 3
 
 void display_matrix(int row,int col,int matrix[row][col]){
