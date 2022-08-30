@@ -1,6 +1,5 @@
 #include <stdio.h>
 
-// Mirza Ibrahim Beg
 // Lab 2
 
 void display_array(int len,int arr[len]){
