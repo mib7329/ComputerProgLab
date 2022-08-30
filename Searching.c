@@ -1,6 +1,5 @@
 #include <stdio.h>
 
-// mirza Ibrahim Beg
 // Lab 1
 
 void linear_search(int len,int arr[len]){
